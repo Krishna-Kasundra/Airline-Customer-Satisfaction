@@ -1,4 +1,4 @@
-Spam SMS Detection Project
+SMS Spam Detection Project
 
 -Objective: To build an AI model that classifies SMS messages as either spam or legitimate (ham).
 
